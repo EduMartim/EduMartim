@@ -117,20 +117,20 @@
             <td>
                 <h4>Developer/Forums</h4>
             </td>
-            <td><img align="center" alt="Eduardo-CSS" height="30" width="100"
+            <td><img align="center" alt="Eduardo-StackOverflow" height="30" width="100"
                     src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
             </td>
             <td>
                 <h4>Vesion Control</h4>
             </td>
-            <td><img align="center" alt="Eduardo-CSS" height="30" width="100"
+            <td><img align="center" alt="Eduardo-GitHub" height="30" width="100"
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-            <td><img align="center" alt="Eduardo-CSS" height="30" width="100"
+            <td><img align="center" alt="Eduardo-GIT" height="30" width="100"
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
             </td>
             <td>
                 <h4>Social</h4>
             </td>
-            <td><img align="center" alt="Eduardo-CSS" height="30" width="100"
-                     src="">
+            <td><img align="center" alt="Eduardo-LinkedIn" height="30" width="100"
+                     src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/eduardomartim/)"> 
             </td>
