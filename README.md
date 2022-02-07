@@ -8,8 +8,8 @@
   
 <div align="left">
   <a href="https://github.com/EduMartim">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=EduMartim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduMartim&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EduMartim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduMartim&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   <h3>Currently running the road learning the following stacks:</h3>
