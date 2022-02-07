@@ -73,18 +73,6 @@
             <td>
                 <h4>Database</h4>
             </td>
-            <td><img align="center" alt="Eduardo-CSS" height="30" width="100" 
-                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-            <td><img align="center" alt="Eduardo-CSS" height="30" width="100"
-                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-            <td><img align="center" alt="Eduardo-CSS" height="30" width="100"
-                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-            <td><img align="center" alt="Eduardo-CSS" height="30" width="100"
-                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-            </td>
-            <td>
-                <h4>Database</h4>
-            </td>
             <td><img align="center" alt="Eduardo-CSS" height="30" width="100"
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
             <td><img align="center" alt="Eduardo-CSS" height="30" width="100"
