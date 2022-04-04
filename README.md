@@ -3,7 +3,7 @@
 I'm Eduardo Martim, a passionate learner and self-taught on my way to beat the long road of tech adventures playing differnts stacks and targeting to be a fullstack developer and soon Software Engenieer, I am 56 y/o beliver that see no
 boundaries for willpower
 
-## What I'm up to be
+## I'm on the track to be:
 * Full Stack Developer
 * Softwear Engineer
 <br>
