@@ -10,7 +10,7 @@ boundaries for willpower
 <div align="left" href="https://github.com/EduMartim">
     <img height="180"
         src="https://github-readme-stats.vercel.app/api?username=EduMartim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
+    <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edumartim&theme=react&line_height=40&hide=css"/> </a>
     <img height="180"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduMartim&layout=compact&langs_count=7&theme=dracula" />
 </div>
