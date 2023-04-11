@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-I'm Eduardo Martim, a passionate learner and self-taught on my way to beat the long road of tech adventures playing differnts stacks and targeting to be a fullstack developer and soon Software Engenieer, I am 56 y/o beliver that see no
+I'm Eduardo Martim, a passionate learner and self-taught on my way to beat the long road of tech adventures playing differnts stacks and targeting to be a fullstack developer and soon Software Engenieer, I am 57 y/o beliver that see no
 boundaries for willpower
 
 ## I'm on the track to be:
