@@ -33,8 +33,7 @@ I'm Eduardo Martim, a passionate learner and self-taught, on the road beating th
 ![Microsof_SQL_Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-black?style=flat-square&logo=microsoft%20sql%20server&logoColor=red) 
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgreSQL)  
 ![MarkDown](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=markdown&logoColor=white)  
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-black?style=style=flat-square&logo=bootstrap&logoColor=blue) 
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) 
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-black?style=style=flat-square&logo=bootstrap&logoColor=blue)![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) 
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EduMartim&theme=dracula)](https://git.io/streak-stats)
