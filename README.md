@@ -16,6 +16,7 @@ I'm Eduardo Martim, a passionate learner and self-taught, on the road beating th
 
 ![Java](https://img.shields.io/badge/Java-020100?style=for-the-badge&logo=openjdk&logoColor=red)
 ![Spring](https://img.shields.io/badge/Spring-020100?style=for-the-badge&logo=spring&logoColor=green)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5&logoColor=red)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3&logoColor=blue)
