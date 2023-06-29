@@ -14,7 +14,7 @@ I'm Eduardo Martim, a passionate learner and self-taught, on the road beating th
 
 ### Currently running the road learning the following stacks:
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Java]([https://img.shields.io/badge/-Java-black?style=flat-square&logo=java](https://img.shields.io/badge/Java-020100?style=for-the-badge&logo=openjdk&logoColor=yellow))
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5&logoColor=red)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3&logoColor=blue)
