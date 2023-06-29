@@ -26,12 +26,13 @@ I'm Eduardo Martim, a passionate learner and self-taught, on the road beating th
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 ### Other Knowledge:
+
 ![C#](https://img.shields.io/badge/CSharp-black?style=flat-square&logo=csharp)
 ![DotNet](https://img.shields.io/badge/DOTNET-black?style=flat-square&logo=dotnet&logoColor=aqua)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Microsof_SQL_Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-black?style=flat-square&logo=microsoft%20sql%20server&logoColor=red) 
+![Microsof_SQL_Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-black?style=flat-square&logo=microsoft%20sql%20server&logoColor=red)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgreSQL)  
 ![MarkDown](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=markdown&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-black?style=style=flat-square&logo=bootstrap&logoColor=blue)
