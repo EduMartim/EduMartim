@@ -32,6 +32,9 @@ I'm Eduardo Martim, a passionate learner and self-taught, on the road beating th
     /></a>
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api?username=EduMartim&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats for Fernando-S-Santos">
+<br>
+
 ### Other Knowledge:
 
 ![C](https://img.shields.io/badge/C-black?style=flat-square&logo=csharp)
