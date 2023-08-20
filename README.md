@@ -10,7 +10,7 @@ I'm Eduardo Martim, a passionate learner and self-taught, on the road beating th
 <img height="180" /><a href="">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=edumartim&show_icons=true&theme=dracula&line_height=40"
+    src="https://github-readme-stats.vercel.app/api?username=edumartim&show_icons=true&theme=dracula&line_height=30"
 /></a>
 </div>
 
