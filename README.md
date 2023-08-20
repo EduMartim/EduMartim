@@ -7,11 +7,7 @@ I'm Eduardo Martim, a passionate learner and self-taught, on the road beating th
 * Full Stack Developer
 
 <div align="left" href="https://github.com/EduMartim">
-<img /><a href="">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=edumartim&show_icons=true&theme=dracula&line"
-/></a>
+  <img height="180" /><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduMartim&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages used by Eduardo Martim" /></a>
 </div>
 
 ### Currently running the road learning the following stacks:
