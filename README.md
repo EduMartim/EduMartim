@@ -28,6 +28,14 @@ I'm Eduardo Martim, a passionate learner and self-taught, on the road beating th
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
+<div align="left" href="https://github.com/EduMartim">
+    <img height="180" /><a href="">
+        <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduMartim&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+        alt="Top languages used by Fernando-S-Santos"
+    /></a>
+</div>
+
 ### Other Knowledge:
 
 ![C](https://img.shields.io/badge/C-black?style=flat-square&logo=csharp)
