@@ -7,8 +7,7 @@ I'm Eduardo Martim, a passionate learner and self-taught, on the road beating th
 * Full Stack Developer
 * 
 <div align="left" href="https://github.com/EduMartim">
-    <img height="180"
-    <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username=edumartim&theme=react&line_height=40&hide=css"/></a>
+    <img height="180"><a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username=edumartim&theme=react&line_height=40&hide=css"/></a>
 </div>
 
 ### Currently running the road learning the following stacks:
