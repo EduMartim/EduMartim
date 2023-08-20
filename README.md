@@ -25,7 +25,6 @@ I'm Eduardo Martim, a passionate learner and self-taught, on the road beating th
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 <img src="https://github-readme-stats.vercel.app/api?username=EduMartim&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats for Eduardo Martim">
-<br>
 
 ### Other Knowledge:
 
