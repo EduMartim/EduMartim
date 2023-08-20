@@ -7,10 +7,10 @@ I'm Eduardo Martim, a passionate learner and self-taught, on the road beating th
 * Full Stack Developer
 
 <div align="left" href="https://github.com/EduMartim">
-<img height="300" /><a href="">
+<img height="350" /><a href="">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=edumartim&show_icons=true&theme=dracula&line_height=25"
+    src="https://github-readme-stats.vercel.app/api?username=edumartim&show_icons=true&theme=dracula&line_height=40"
 /></a>
 </div>
 
