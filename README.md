@@ -5,7 +5,7 @@ I'm Eduardo Martim, a passionate learner and self-taught, on the road beating th
 ## I'm on the track to be:
 * Full Stack Developer
 * Softwear Engineer
-<br>
+  
 <div align="left" href="https://github.com/EduMartim">
     <img height="180"
     <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edumartim&theme=react&line_height=40&hide=css"/></a>
