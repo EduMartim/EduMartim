@@ -47,3 +47,5 @@ I'm Eduardo Martim, a passionate learner and self-taught, on the road beating th
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:edumartim@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/eduardomartim/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/EduMartim/)
+
+[![](https://visitcount.itsvg.in/api?id=EduMartim&icon=0&color=0)](https://visitcount.itsvg.in)
