@@ -3,9 +3,8 @@
 I'm Eduardo Martim, a passionate learner and self-taught, on the road beating the challenges of tech adventures and playing with relevant stacks, targeting to be a Full Stack Developer,  Software Engineer, I am 57 y/o beliver that see no boundaries for willpower.
 
 ## I'm on the track to be:
-* Full Stack Developer
 * Softwear Engineer
-  
+* Full Stack Developer
 <div align="left" href="https://github.com/EduMartim">
     <img height="180"
     <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edumartim&theme=react&line_height=40&hide=css"/></a>
