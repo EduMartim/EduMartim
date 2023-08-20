@@ -11,7 +11,6 @@ I'm Eduardo Martim, a passionate learner and self-taught, on the road beating th
     <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edumartim&theme=react&line_height=40&hide=css"/></a>
 </div>
 
-
 ### Currently running the road learning the following stacks:
 
 ![Java](https://img.shields.io/badge/Java-020100?style=for-the-badge&logo=openjdk&logoColor=red)
