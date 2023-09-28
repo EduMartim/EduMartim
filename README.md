@@ -41,7 +41,7 @@ I'm Eduardo Martim, a passionate learner and self-taught, on the road beating th
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EduMartim&theme=dracula)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EduMartim&theme=dracula)](https://git.io/streak-stats)
 
 ### Connect with me at: 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:edumartim@gmail.com)
