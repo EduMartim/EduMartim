@@ -29,7 +29,7 @@ I'm Eduardo Martim, a passionate learner and self-taught, on the road beating th
 
 ### Other Knowledge:
 
-![C](https://img.shields.io/badge/C-black?style=flat-square&logo=csharp)
+![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c)
 ![C#](https://img.shields.io/badge/CSharp-black?style=flat-square&logo=csharp)
 ![DotNet](https://img.shields.io/badge/DOTNET-black?style=flat-square&logo=dotnet&logoColor=aqua)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
