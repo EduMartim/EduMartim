@@ -18,7 +18,7 @@ I'm Eduardo Martim, a passionate learner and self-taught, on the road beating th
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5&logoColor=red)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3&logoColor=blue)
-![Angular](https://img.shields.io/badge/AngularJS-black?style=flat-square&logo=angularjs&logoColor=red)
+![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&logoColor=dd0731&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/typescript-black?logo=typescript&logoColor=f5f5f5)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
