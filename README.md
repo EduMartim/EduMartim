@@ -1,9 +1,9 @@
 # Welcome to my profile!
 
-I'm Eduardo Martim, a passionate learner and self-taught, on the road beating the challenges of tech adventures and playing with relevant stacks, targeting to be a Full Stack Developer,  Software Engineer, I am 57 y/o beliver that see no boundaries for willpower.
+I'm Eduardo Martim, a passionate learner and self-taught, on the road beating the challenges of tech adventures and playing with relevant stacks, targeting to be a Full Stack Developer,  Software Engineer, I am 57 y/o believer that see no boundaries for willpower.
 
 ## I'm on the track to be:
-* Softwear Engineer
+* Software Engineer
 * Full Stack Developer
 
 <div align="left" href="https://github.com/EduMartim">
